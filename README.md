@@ -1,2 +1,2 @@
 # Ary1603.github.io
-Landing page bootcamp of destinies
+A landing page about travel focused mostly on beach hotels like cancun, puerto vallarta and acapulco.
